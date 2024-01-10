@@ -28,16 +28,7 @@ def certificate():
     else:
         return show_the_login_form()
 
-# Recipient's Name: [Enter the recipient's name]
-    # Training Date: [Enter the date of the training]
-    # Duration: [Enter the duration of the training]
-    # Trainer's Name: [Enter the name of the trainer]
-    # Topics Covered: [List the topics covered during the training]
-    # Additional Details (optional): [Include any other relevant details]
-  
-    # Certificate of Completion
-    # This is to certify that [Recipient's Name] has successfully completed the [Training Name] conducted on [Training Date]. The training lasted [Duration] and covered the following topics:
-    #     -testtrining
+
 def generate_certificate():
 
 
